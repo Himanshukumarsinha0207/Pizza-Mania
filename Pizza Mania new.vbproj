@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{49371CE9-E1FF-437A-B92F-5B763085699B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Pizza_Mania_new.My.MyApplication</StartupObject>
+    <RootNamespace>Pizza_Mania_new</RootNamespace>
+    <AssemblyName>Pizza Mania new</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Pizza Mania new.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Pizza Mania new.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\..\Downloads\Guna.UI-Framework-Lib-master (1)\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dash.Designer.vb">
+      <DependentUpon>Dash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emp.Designer.vb">
+      <DependentUpon>Emp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Emp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OleDb.vb" />
+    <Compile Include="Pizza_ManiaDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Pizza_ManiaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Pizza_ManiaDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Pizza_ManiaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Pizza_ManiaDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Pizza_ManiaDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Pizza_ManiaDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Pizza_ManiaDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QR.Designer.vb">
+      <DependentUpon>QR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="warning.Designer.vb">
+      <DependentUpon>warning.vb</DependentUpon>
+    </Compile>
+    <Compile Include="warning.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Dash.resx">
+      <DependentUpon>Dash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emp.resx">
+      <DependentUpon>Emp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QR.resx">
+      <DependentUpon>QR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="warning.resx">
+      <DependentUpon>warning.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pizza_ManiaDataSet.xsc">
+      <DependentUpon>Pizza_ManiaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Pizza_ManiaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Pizza_ManiaDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Pizza_ManiaDataSet.xss">
+      <DependentUpon>Pizza_ManiaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Pizza_ManiaDataSet1.xsc">
+      <DependentUpon>Pizza_ManiaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Pizza_ManiaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Pizza_ManiaDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Pizza_ManiaDataSet1.xss">
+      <DependentUpon>Pizza_ManiaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Pizza_ManiaDataSet2.xsc">
+      <DependentUpon>Pizza_ManiaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Pizza_ManiaDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Pizza_ManiaDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Pizza_ManiaDataSet2.xss">
+      <DependentUpon>Pizza_ManiaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Pizza_ManiaDataSet3.xsc">
+      <DependentUpon>Pizza_ManiaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Pizza_ManiaDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Pizza_ManiaDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Pizza_ManiaDataSet3.xss">
+      <DependentUpon>Pizza_ManiaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Login page2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-pok-rie-982263.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-pizza-mania.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frantisek-g-XXuVXLy5gHU-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Margherita.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texture.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texture1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOUBLE CHEESE MARGHERITA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FARM HOUSE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PEPPY PANEER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MEXICAN GREEN WAVE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DELUXE VEGGIE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VEG EXTRAVAGANZA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHEESE N CORN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FRESH VEGGIE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VEGGIE PARADISE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PANEER MAKHANI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INDIE TANDOORI PANEER.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN GOLDEN DELIGHT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NON VEG SUPREME.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN DOMINATOR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PEPPER BARBECUE &amp; ONION.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN SAUSAGE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN FIESTA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INDI CHICKEN TIKKA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN PEPPERONI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PEPPER BARBECUE CHICKEN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GARLIC BREADSTICKS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STUFFED GARLIC BREAD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN PEPPERONI STUFFED GARLIC BREAD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PANEER TIKKA STUFFED GARLIC BREAD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PEPSI%28500ML%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MIRINDA%28500ML%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LIPTON ICE TEA %28250ML%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7UP%28500ML%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kids-stuff-pattern-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FRESH VEGGIE1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VEGGIE PARADISE1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHEESE N CORN1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INDIE TANDOORI PANEER1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PANEER MAKHANI1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOUBLE CHEESE MARGHERITA2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FARM HOUSE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN PEPPERONI1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INDI CHICKEN TIKKA1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN SAUSAGE1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NON VEG SUPREME1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PEPPER BARBECUE &amp; ONION1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN DOMINATOR1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN GOLDEN DELIGHT1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texture11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texture2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Margherita2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FARM HOUSE3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PEPPY PANEER2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOUBLE CHEESE MARGHERITA3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHEESE N CORN2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DELUXE VEGGIE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DOUBLE CHEESE MARGHERITA4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FARM HOUSE4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FRESH VEGGIE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INDIE TANDOORI PANEER2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Margherita3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MEXICAN GREEN WAVE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PANEER MAKHANI2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PEPPY PANEER3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VEG EXTRAVAGANZA2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VEGGIE PARADISE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN DOMINATOR3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN FIESTA2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN GOLDEN DELIGHT2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN PEPPERONI2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN SAUSAGE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\INDI CHICKEN TIKKA2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NON VEG SUPREME3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PEPPER BARBECUE &amp; ONION3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PEPPER BARBECUE CHICKEN2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GARLIC BREADSTICKS1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STUFFED GARLIC BREAD1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHICKEN PEPPERONI STUFFED GARLIC BREAD1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PANEER TIKKA STUFFED GARLIC BREAD1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PEPSI%28500ML%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MIRINDA%28500ML%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LIPTON ICE TEA %28250ML%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7UP%28500ML%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PEPSI BLACK CAN1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-8q.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1723876.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1723876red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\danger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Pizza_Mania.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\qr.jpg" />
+    <None Include="Resources\1273014462.png" />
+    <None Include="Resources\Employee.jpg" />
+    <None Include="Resources\Bill panel1.jpg" />
+    <None Include="Resources\Bill panel.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

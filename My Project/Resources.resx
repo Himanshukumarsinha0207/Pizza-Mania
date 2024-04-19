@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="INDIE TANDOORI PANEER1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\INDIE TANDOORI PANEER1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN GOLDEN DELIGHT2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN GOLDEN DELIGHT2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VEG EXTRAVAGANZA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VEG EXTRAVAGANZA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN DOMINATOR3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN DOMINATOR3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MEXICAN GREEN WAVE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MEXICAN GREEN WAVE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN DOMINATOR2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN DOMINATOR2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INDIE TANDOORI PANEER" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\INDIE TANDOORI PANEER.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="key" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\key.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DOUBLE CHEESE MARGHERITA2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DOUBLE CHEESE MARGHERITA2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DOUBLE CHEESE MARGHERITA4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DOUBLE CHEESE MARGHERITA4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PANEER MAKHANI" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PANEER MAKHANI.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPPY PANEER2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPPY PANEER2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPPER BARBECUE CHICKEN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPPER BARBECUE CHICKEN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="STUFFED GARLIC BREAD1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\STUFFED GARLIC BREAD1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DELUXE VEGGIE1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DELUXE VEGGIE1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled-8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled-8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PANEER TIKKA STUFFED GARLIC BREAD" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PANEER TIKKA STUFFED GARLIC BREAD.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FRESH VEGGIE1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FRESH VEGGIE1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NON VEG SUPREME1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NON VEG SUPREME1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPSI(500ML)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPSI(500ML)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NON VEG SUPREME2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NON VEG SUPREME2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo-pizza-mania" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo-pizza-mania.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHEESE N CORN1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHEESE N CORN1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Margherita1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Margherita1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPPER BARBECUE &amp; ONION" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPPER BARBECUE &amp; ONION.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN FIESTA1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN FIESTA1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FARM HOUSE2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FARM HOUSE2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GARLIC BREADSTICKS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GARLIC BREADSTICKS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VEGGIE PARADISE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VEGGIE PARADISE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VEG EXTRAVAGANZA2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VEG EXTRAVAGANZA2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LIPTON ICE TEA (250ML)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LIPTON ICE TEA (250ML).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PANEER TIKKA STUFFED GARLIC BREAD1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PANEER TIKKA STUFFED GARLIC BREAD1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DOUBLE CHEESE MARGHERITA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DOUBLE CHEESE MARGHERITA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INDIE TANDOORI PANEER2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\INDIE TANDOORI PANEER2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Login page2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Login page2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1723876red" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1723876red.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INDI CHICKEN TIKKA2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\INDI CHICKEN TIKKA2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DELUXE VEGGIE2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DELUXE VEGGIE2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPSI BLACK CAN1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPSI BLACK CAN1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPSI BLACK CAN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPSI BLACK CAN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN GOLDEN DELIGHT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN GOLDEN DELIGHT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPPER BARBECUE &amp; ONION1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPPER BARBECUE &amp; ONION1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Texture2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texture2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LIPTON ICE TEA (250ML)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LIPTON ICE TEA (250ML)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VEGGIE PARADISE2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VEGGIE PARADISE2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LIPTON ICE TEA (250ML)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LIPTON ICE TEA (250ML)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VEGGIE PARADISE1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VEGGIE PARADISE1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Margherita2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Margherita2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NON VEG SUPREME3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NON VEG SUPREME3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kids-stuff-pattern-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kids-stuff-pattern-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1273014462" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1273014462.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN FIESTA2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN FIESTA2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GARLIC BREADSTICKS1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GARLIC BREADSTICKS1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled-8q" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled-8q.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7UP(500ML)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7UP(500ML).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN GOLDEN DELIGHT1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN GOLDEN DELIGHT1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN FIESTA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN FIESTA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PANEER MAKHANI2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PANEER MAKHANI2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Untitled-9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled-9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN SAUSAGE2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN SAUSAGE2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MIRINDA(500ML)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MIRINDA(500ML).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN SAUSAGE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN SAUSAGE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DOUBLE CHEESE MARGHERITA3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DOUBLE CHEESE MARGHERITA3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPPY PANEER" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPPY PANEER.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Texture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texture.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bill panel1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bill panel1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPPY PANEER3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPPY PANEER3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MEXICAN GREEN WAVE2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MEXICAN GREEN WAVE2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FRESH VEGGIE2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FRESH VEGGIE2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MEXICAN GREEN WAVE1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MEXICAN GREEN WAVE1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Margherita" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Margherita.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Texture11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texture11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPPER BARBECUE CHICKEN1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPPER BARBECUE CHICKEN1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHEESE N CORN" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHEESE N CORN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PANEER MAKHANI1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PANEER MAKHANI1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FRESH VEGGIE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FRESH VEGGIE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MIRINDA(500ML)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MIRINDA(500ML)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN SAUSAGE1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN SAUSAGE1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NON VEG SUPREME" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NON VEG SUPREME.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INDI CHICKEN TIKKA1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\INDI CHICKEN TIKKA1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Employee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Employee.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN PEPPERONI2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN PEPPERONI2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Texture1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texture1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN PEPPERONI STUFFED GARLIC BREAD" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN PEPPERONI STUFFED GARLIC BREAD.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Margherita3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Margherita3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="INDI CHICKEN TIKKA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\INDI CHICKEN TIKKA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FARM HOUSE1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FARM HOUSE1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN DOMINATOR1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN DOMINATOR1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN PEPPERONI" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN PEPPERONI.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN PEPPERONI1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN PEPPERONI1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPSI(500ML)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPSI(500ML).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DOUBLE CHEESE MARGHERITA1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DOUBLE CHEESE MARGHERITA1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7UP(500ML)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7UP(500ML)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN PEPPERONI STUFFED GARLIC BREAD1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN PEPPERONI STUFFED GARLIC BREAD1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="danger" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\danger.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7UP(500ML)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7UP(500ML)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPPER BARBECUE &amp; ONION2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPPER BARBECUE &amp; ONION2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1723876" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1723876.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPPY PANEER1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPPY PANEER1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FARM HOUSE4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FARM HOUSE4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bill panel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bill panel.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPPER BARBECUE &amp; ONION3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPPER BARBECUE &amp; ONION3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FARM HOUSE3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FARM HOUSE3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VEG EXTRAVAGANZA1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VEG EXTRAVAGANZA1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frantisek-g-XXuVXLy5gHU-unsplash" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frantisek-g-XXuVXLy5gHU-unsplash.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="STUFFED GARLIC BREAD" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\STUFFED GARLIC BREAD.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pexels-pok-rie-982263" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pexels-pok-rie-982263.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PEPPER BARBECUE CHICKEN2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PEPPER BARBECUE CHICKEN2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHEESE N CORN2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHEESE N CORN2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DELUXE VEGGIE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DELUXE VEGGIE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CHICKEN DOMINATOR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CHICKEN DOMINATOR.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FARM HOUSE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FARM HOUSE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="qr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\qr.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

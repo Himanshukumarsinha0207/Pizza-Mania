@@ -1,0 +1,36 @@
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\bin\Debug\Pizza Mania new.exe.config
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\bin\Debug\Pizza Mania new.exe
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\bin\Debug\Pizza Mania new.pdb
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\bin\Debug\Pizza Mania new.xml
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza_Mania_new.Form1.resources
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza_Mania_new.Resources.resources
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.vbproj.GenerateResource.Cache
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.exe
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.xml
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.pdb
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\bin\Debug\Guna.UI.dll
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza_Mania_new.Dash.resources
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.vbprojResolveAssemblyReference.cache
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza_Mania_new.warning.resources
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\bin\Debug\Pizza_Mania.accdb
+D:\Documents\VS studio\VS 2012\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza_Mania_new.QR.resources
+D:\Pizza Mania new\Pizza Mania new\bin\Debug\Pizza Mania new.exe.config
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.exe
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.xml
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.pdb
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza_Mania_new.Dash.resources
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza_Mania_new.Form1.resources
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza_Mania_new.Resources.resources
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza_Mania_new.QR.resources
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza_Mania_new.warning.resources
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.vbproj.GenerateResource.Cache
+D:\Pizza Mania new\Pizza Mania new\bin\Debug\Pizza_Mania.accdb
+D:\Pizza Mania new\Pizza Mania new\bin\Debug\Pizza Mania new.exe
+D:\Pizza Mania new\Pizza Mania new\bin\Debug\Pizza Mania new.pdb
+D:\Pizza Mania new\Pizza Mania new\bin\Debug\Pizza Mania new.xml
+D:\Pizza Mania new\Pizza Mania new\bin\Debug\Guna.UI.dll
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza_Mania_new.Emp.resources
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.vbproj.AssemblyReference.cache
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.vbproj.SuggestedBindingRedirects.cache
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.vbproj.CoreCompileInputs.cache
+D:\Pizza Mania new\Pizza Mania new\obj\Debug\Pizza Mania new.vbproj.CopyComplete

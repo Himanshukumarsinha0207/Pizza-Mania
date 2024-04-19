@@ -1,0 +1,1076 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pizza Mania new
+</name>
+</assembly>
+<members>
+<member name="T:Pizza_Mania_new.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources._1273014462">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources._1723876">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources._1723876red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources._7UP_500ML_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources._7UP_500ML_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources._7UP_500ML_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Bill_panel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Bill_panel1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHEESE_N_CORN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHEESE_N_CORN1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHEESE_N_CORN2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_DOMINATOR">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_DOMINATOR1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_DOMINATOR2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_DOMINATOR3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_FIESTA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_FIESTA1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_FIESTA2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_GOLDEN_DELIGHT">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_GOLDEN_DELIGHT1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_GOLDEN_DELIGHT2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_PEPPERONI">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_PEPPERONI_STUFFED_GARLIC_BREAD">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_PEPPERONI_STUFFED_GARLIC_BREAD1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_PEPPERONI1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_PEPPERONI2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_SAUSAGE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_SAUSAGE1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.CHICKEN_SAUSAGE2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.danger">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.DELUXE_VEGGIE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.DELUXE_VEGGIE1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.DELUXE_VEGGIE2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.DOUBLE_CHEESE_MARGHERITA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.DOUBLE_CHEESE_MARGHERITA1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.DOUBLE_CHEESE_MARGHERITA2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.DOUBLE_CHEESE_MARGHERITA3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.DOUBLE_CHEESE_MARGHERITA4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Employee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.FARM_HOUSE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.FARM_HOUSE1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.FARM_HOUSE2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.FARM_HOUSE3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.FARM_HOUSE4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.frantisek_g_XXuVXLy5gHU_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.FRESH_VEGGIE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.FRESH_VEGGIE1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.FRESH_VEGGIE2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.GARLIC_BREADSTICKS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.GARLIC_BREADSTICKS1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.INDI_CHICKEN_TIKKA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.INDI_CHICKEN_TIKKA1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.INDI_CHICKEN_TIKKA2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.INDIE_TANDOORI_PANEER">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.INDIE_TANDOORI_PANEER1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.INDIE_TANDOORI_PANEER2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.key">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.kids_stuff_pattern_vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.LIPTON_ICE_TEA__250ML_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.LIPTON_ICE_TEA__250ML_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.LIPTON_ICE_TEA__250ML_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Login_page2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.logo_pizza_mania">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Margherita">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Margherita1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Margherita2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Margherita3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.MEXICAN_GREEN_WAVE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.MEXICAN_GREEN_WAVE1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.MEXICAN_GREEN_WAVE2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.MIRINDA_500ML_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.MIRINDA_500ML_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.NON_VEG_SUPREME">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.NON_VEG_SUPREME1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.NON_VEG_SUPREME2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.NON_VEG_SUPREME3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PANEER_MAKHANI">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PANEER_MAKHANI1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PANEER_MAKHANI2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PANEER_TIKKA_STUFFED_GARLIC_BREAD">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PANEER_TIKKA_STUFFED_GARLIC_BREAD1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPPER_BARBECUE___ONION">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPPER_BARBECUE___ONION1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPPER_BARBECUE___ONION2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPPER_BARBECUE___ONION3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPPER_BARBECUE_CHICKEN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPPER_BARBECUE_CHICKEN1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPPER_BARBECUE_CHICKEN2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPPY_PANEER">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPPY_PANEER1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPPY_PANEER2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPPY_PANEER3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPSI_500ML_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPSI_500ML_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPSI_BLACK_CAN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.PEPSI_BLACK_CAN1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.pexels_pok_rie_982263">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.qr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.STUFFED_GARLIC_BREAD">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.STUFFED_GARLIC_BREAD1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Texture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Texture1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Texture11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Texture2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Untitled_8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Untitled_8q">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.Untitled_9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.VEG_EXTRAVAGANZA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.VEG_EXTRAVAGANZA1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.VEG_EXTRAVAGANZA2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.VEGGIE_PARADISE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.VEGGIE_PARADISE1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Pizza_Mania_new.My.Resources.Resources.VEGGIE_PARADISE2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet.Veg_PizzaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet.Veg_PizzaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet.Veg_PizzaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSetTableAdapters.Veg_PizzaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Pizza_Mania_new.Pizza_ManiaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Pizza_Mania_new.Pizza_ManiaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Pizza_Mania_new.Pizza_ManiaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSetTableAdapters.TableAdapterManager.UpdateAll(Pizza_Mania_new.Pizza_ManiaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.BeveragesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Coupon_CodesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Nonveg_PizzaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Side_OrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Veg_PizzaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.BeveragesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Coupon_CodesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Nonveg_PizzaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Side_OrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Veg_PizzaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.BeveragesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Coupon_CodesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Nonveg_PizzaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Side_OrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1.Veg_PizzaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.BeveragesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.Coupon_CodesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.Nonveg_PizzaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.Side_OrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.Veg_PizzaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Pizza_Mania_new.Pizza_ManiaDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Pizza_Mania_new.Pizza_ManiaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Pizza_Mania_new.Pizza_ManiaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.TableAdapterManager.UpdateAll(Pizza_Mania_new.Pizza_ManiaDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.BeveragesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.Nonveg_PizzaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.Side_OrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.Veg_PizzaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.BeveragesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.Nonveg_PizzaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.Side_OrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.Veg_PizzaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.BeveragesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.Nonveg_PizzaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.Side_OrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2.Veg_PizzaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.BeveragesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.Nonveg_PizzaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.Side_OrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.Veg_PizzaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Pizza_Mania_new.Pizza_ManiaDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Pizza_Mania_new.Pizza_ManiaDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Pizza_Mania_new.Pizza_ManiaDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.TableAdapterManager.UpdateAll(Pizza_Mania_new.Pizza_ManiaDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.BeveragesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Coupon_CodesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Nonveg_PizzaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Side_OrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Veg_PizzaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.BeveragesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Coupon_CodesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Nonveg_PizzaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Side_OrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Veg_PizzaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.BeveragesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Coupon_CodesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Nonveg_PizzaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Side_OrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3.Veg_PizzaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.BeveragesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.Coupon_CodesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.Nonveg_PizzaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.Side_OrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.Veg_PizzaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(Pizza_Mania_new.Pizza_ManiaDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(Pizza_Mania_new.Pizza_ManiaDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(Pizza_Mania_new.Pizza_ManiaDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.TableAdapterManager.UpdateAll(Pizza_Mania_new.Pizza_ManiaDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Pizza_Mania_new.Pizza_ManiaDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
